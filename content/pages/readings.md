@@ -34,7 +34,7 @@ Nora, Pierre. "Between Memory and History: Les Lieux de Mémoire." _Representati
 
 Page, Max, and Randall Mason. _Giving Preservation a History: Histories of Historic Preservation in the United States_. New York, NY: Routledge, 2003, introduction and chapter 1. ISBN: 9780415934435.
 
-English Heritage. _Power of Place: The Future of the Historic Environment_. English Heritage, 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.english-heritage.org.uk/upload/pdf/power_of_place_11.pdf))
+English Heritage. _Power of Place: The Future of the Historic Environment_. English Heritage, 2000. ([PDF](http://www.english-heritage.org.uk/upload/pdf/power_of_place_11.pdf))
 
 Visit [Virtual Reality Lab](http://vrlab.epfl.ch/) and [Cyark](https://www.cyark.org/)
 
@@ -102,7 +102,7 @@ Kirk, Russell. "Destroying the Past by 'Development'." In _Building the Nation: 
 
 ### Contemporary policy
 
-National Historic Preservation Act of 1966. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ncshpo.org/resources/national-historic-preservation-act-of-1966/))
+National Historic Preservation Act of 1966. ([PDF](http://ncshpo.org/resources/national-historic-preservation-act-of-1966/))
 
 National Park Service, [National Register Evaluation Guidelines and Eligibility Criteria](https://www.nrc.gov/docs/ML1417/ML14172A032.pdf)
 
@@ -110,13 +110,13 @@ National Park Service, [National Register Process for Listing](http://www.tulsap
 
 [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/index.htm) and [National Trust for Historic Preservation](https://savingplaces.org)
 
-[Massachusetts Historical Commission](https://www.sec.state.ma.us/mhc/) and What You Need to Know about Listing on the National Register (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.sec.state.ma.us/MHC/mhcpdf/knowhow3.pdf))
+[Massachusetts Historical Commission](https://www.sec.state.ma.us/mhc/) and What You Need to Know about Listing on the National Register ([PDF](http://www.sec.state.ma.us/MHC/mhcpdf/knowhow3.pdf))
 
 The [Venice](https://www.icomos.org/venicecharter2004/) and [Burra Charters](https://australia.icomos.org/publications/charters/)
 
 Matthews, Anne. "Making the List." _Preservation_ 50, no. 4 (1998): 65-66.
 
-Koolhaas, Rem. "Preservation Is Overtaking Us." _Future Anterior_ 1, no. 2 (2004). ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 2.0 MB](https://www.arch.columbia.edu/books/reader/6-preservation-is-overtaking-us))
+Koolhaas, Rem. "Preservation Is Overtaking Us." _Future Anterior_ 1, no. 2 (2004). ([PDF - 2.0 MB](https://www.arch.columbia.edu/books/reader/6-preservation-is-overtaking-us))
 
 Page, Max. "The Gerrymandered Lower East Side Historic District." _New York Daily News_, April 26, 2001.
 
@@ -186,7 +186,7 @@ Zerubavel, Yael. "The Politics of Remembrance and the Consumption of Space: Masa
 
 Czaplicka, John. "The Palace Ruins and Putting the Lithuanian Nation into Place: Historical Stagings in Vilnius." In _Memory and the Impact of Political Transformation in Public Space_. Edited by Daniel J. Walkowitz and Lisa Maya Knauer. Durham, NC: Duke University Press, 2004, pp. 167-188. ISBN: 9780822333647.
 
-Mehrotra, Rahul. "Constructing Cultural Significance: Looking at Bombay's Historic Fort Area." _Future Anterior_ 1, no. 2 (2004). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.3 MB](http://www.arch.columbia.edu/files/gsapp/imceshared/aml2193/Mehrota_04.pdf))
+Mehrotra, Rahul. "Constructing Cultural Significance: Looking at Bombay's Historic Fort Area." _Future Anterior_ 1, no. 2 (2004). ([PDF - 3.3 MB](http://www.arch.columbia.edu/files/gsapp/imceshared/aml2193/Mehrota_04.pdf))
 
 Wellman, Judith. "It's a Wide Community Indeed: Alliances and Issues in Creating Women's Rights National Historical Park, Seneca Falls, New York." Chapter 14 in _Restoring Women's History through Historic Preservation_. Edited by Gail Lee Dubrow and Jennifer B. Goodman. Baltimore, MD: Johns Hopkins University Press, 2002. ISBN: 9780801870521.
 
